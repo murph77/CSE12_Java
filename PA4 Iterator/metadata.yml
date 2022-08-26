@@ -1,0 +1,14 @@
+---
+:id: 124208520
+:submitters:
+- :name: Sihang Li
+  :email: sil050@ucsd.edu
+- :name: Ruoqing Song
+  :email: r2song@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-04-28 06:55:46.243367000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-04-27 23:55:46.243367000 Z
+:status: processed
+:score: 72.0
