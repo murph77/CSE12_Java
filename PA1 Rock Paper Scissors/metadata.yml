@@ -1,0 +1,12 @@
+---
+:id: 120145854
+:submitters:
+- :name: Ruoqing Song
+  :email: r2song@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-04-05 23:56:35.878915000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-04-05 16:56:35.878915000 Z
+:status: processed
+:score: 75.0
