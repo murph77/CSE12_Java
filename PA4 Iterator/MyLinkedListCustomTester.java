@@ -1,13 +1,13 @@
 
 /**
- * TODO: Add your file header
- * Name:Sihang Li Ruoqing Song
- * ID: A17189041
- * Email:sil050@ucsd.edu
+ * The custom tests for ListIterator implementation
+ * Name: Ruoqing Song
+ * ID: A17191150
+ * Email: r2song@ucsd.edu
  * Sources used: Zybooks, Lecture slides, Lecture handouts
- * Some example of sources used would be Tutors, Zybooks, and Lecture Slides
- * this file to implement the tests that are stubbed out in MyLinkedListCustomTester.java.
- * 2-4 sentence file description here
+ * 
+ * This file contains the JUnit tests to ensure the ListIterator
+ * implementation functions correctly.
  */
 
 import static org.junit.Assert.*;
