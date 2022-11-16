@@ -24,6 +24,12 @@ import org.junit.*;
 
     /**
      * This method set up newTree for testing purposes
+     
+     			5
+     		       / \
+     		      4   9
+		           \
+			   10 
      */
     @Before
     public void setup(){
